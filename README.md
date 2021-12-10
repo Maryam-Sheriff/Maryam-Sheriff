@@ -22,8 +22,6 @@ or <a href="mailto:maryam.sherif.fouad@gmail.com"><b>email</b></a> me
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryam-Sheriff&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Maryam Sherif's Github Stats">
 
 </br>
-</br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
 
