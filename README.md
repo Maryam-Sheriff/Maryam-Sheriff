@@ -4,7 +4,6 @@
 
 <div align="center" width="50">
 
-![ezgif.com-gif-maker _2_.gif](https://i.loli.net/2021/08/05/uPg4FXDojzK8eb5.gif)
 
 </div>
 
@@ -15,7 +14,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/Maryam-Sheriff/Maryam-Sheriff/issues/new"><b>here</b></a><br>
 or <a href="mailto:maryam.sherif.fouad@gmail.com"><b>email</b></a> me
 
-<i>Happy Coding!</i> 😊
 
 </div>
 
