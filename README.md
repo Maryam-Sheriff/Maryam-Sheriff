@@ -34,6 +34,14 @@ or <a href="mailto:maryam.sherif.fouad@gmail.com"><b>email</b></a> me
 <a href="https://dev.to/maryamsheriff" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryam-Sheriff&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Maryam-Sheriff" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Sheriff&layout=compact&theme=radical&hide_border=true" alt="Maryam-Sheriff" /></p>
+
 
 <!--
 **Maryam-Sheriff/Maryam-Sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
